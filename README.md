@@ -50,7 +50,7 @@ Outlines each player and the ball pixel by pixel, instead of only drawing boxes.
 
 ## 4. F1 Pit Stop Logo Detection (Final Assessment)
 
-Detects sponsor logos on Formula 1 pit crews and cars in fast, crowded pit stop footage.
+Detects every visible logo on Formula 1 pit crews and cars in fast, crowded pit stop footage.
 
 - **Task:** object detection of many small objects
 - **Model:** YOLOv11 (Nano), starting from COCO pretrained weights
